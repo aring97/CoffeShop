@@ -1209,11 +1209,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aring\\workspace\\csharp\\CoffeeShop\\CoffeeShop\\CoffeeShop.csproj",
+      "projectUniqueName": "C:\\Users\\aring\\workspace\\csharp\\CoffeeShop\\CoffeShop\\CoffeeShop.csproj",
       "projectName": "CoffeeShop",
-      "projectPath": "C:\\Users\\aring\\workspace\\csharp\\CoffeeShop\\CoffeeShop\\CoffeeShop.csproj",
+      "projectPath": "C:\\Users\\aring\\workspace\\csharp\\CoffeeShop\\CoffeShop\\CoffeeShop.csproj",
       "packagesPath": "C:\\Users\\aring\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aring\\workspace\\csharp\\CoffeeShop\\CoffeeShop\\obj\\",
+      "outputPath": "C:\\Users\\aring\\workspace\\csharp\\CoffeeShop\\CoffeShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

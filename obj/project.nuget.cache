@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "23Wn7wRI24/OEZoeEICPCRP9wyQS45I6+C2H9c6YV16ZXR+eptFbD7f8paM9zMrZEXRbEfW4HlPwQYkqXoC+Wg==",
+  "dgSpecHash": "r8tnPZ9jD4poO2/l8s6EYw7ZvZJQDN5fgpii+jtbnqCVGEVuM/AjmxI/4A7JNougfG7hCK4T+o3vxJNJmMOq3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aring\\workspace\\csharp\\CoffeeShop\\CoffeeShop\\CoffeeShop.csproj",
+  "projectFilePath": "C:\\Users\\aring\\workspace\\csharp\\CoffeeShop\\CoffeShop\\CoffeeShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aring\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\aring\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.1\\microsoft.data.sqlclient.2.1.1.nupkg.sha512",
